@@ -1,0 +1,24 @@
+@import url('main.css');
+
+@media screen and (max-width: 1270px){
+	.container{
+		width: 1050px;
+	}
+}
+@media screen and (max-width: 1070px){
+	.container{
+		width: 890px;
+	}
+}
+@media screen and (max-width: 940px){
+	.container{
+		width: 500px;
+	}
+	.menu-principal{
+		display: none;
+	}
+	.rede-social{
+		display: none;
+	}
+
+}
